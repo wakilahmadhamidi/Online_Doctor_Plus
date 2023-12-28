@@ -1,4 +1,4 @@
-## Online Doctor Plus
+# Online Doctor Plus
 The proposed healthcare app aims to revolutionize the user experience in accessing and managing healthcare services. Through a phased approach, the development will span basic, intermediate, and advanced features, ensuring a comprehensive and user-centric healthcare experience.
 Firstly we will be developing Web App and later on Mobile App for the same purpose.
 
